@@ -1,7 +1,7 @@
 # rdev-emo
 Javascript library for importing different emojis.
 
-## Installation
+# Installation
 
 Install rdev-emo with npm
 
@@ -12,19 +12,19 @@ Install rdev-emo with npm
 
 # API Reference
 
-getRandomEmoji()
-Returns a random emoji from the library.
+- getRandomEmoji()
+  Returns a random emoji from the library.
 
-searchEmojis(query)
+- searchEmojis(query)
 Searches for emojis containing the provided query string and returns matching emojis.
 
-addCustomEmoji(name, emoji)
+- addCustomEmoji(name, emoji)
 Adds a custom emoji to the library using a name and emoji character.
 
-getCustomEmoji(name)
+- getCustomEmoji(name)
 Returns the custom emoji associated with the given name.
 
-countEmojis()
+- countEmojis()
 Counts and returns the total number of emojis in the library.
 
 # Usage
@@ -39,6 +39,10 @@ Counts and returns the total number of emojis in the library.
 
 ## With React.js:
 ![image](https://github.com/RanganDas/rdev-emo/assets/87899366/0fb580f8-66b1-45af-8709-59ad72e3494d)
+
+# Author
+
+- [@RanganDas](https://www.github.com/RanganDas)
 
 
 
